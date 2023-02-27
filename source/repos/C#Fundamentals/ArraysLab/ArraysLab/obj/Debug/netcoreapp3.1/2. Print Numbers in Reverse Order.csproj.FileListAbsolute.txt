@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\ArraysLab\ArraysLab\bin\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.exe
+C:\Users\ACER\source\repos\ArraysLab\ArraysLab\bin\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.deps.json
+C:\Users\ACER\source\repos\ArraysLab\ArraysLab\bin\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.runtimeconfig.json
+C:\Users\ACER\source\repos\ArraysLab\ArraysLab\bin\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\ArraysLab\ArraysLab\bin\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.dll
+C:\Users\ACER\source\repos\ArraysLab\ArraysLab\bin\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.pdb
+C:\Users\ACER\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.AssemblyInfo.cs
+C:\Users\ACER\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.dll
+C:\Users\ACER\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.pdb
+C:\Users\ACER\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.genruntimeconfig.cache

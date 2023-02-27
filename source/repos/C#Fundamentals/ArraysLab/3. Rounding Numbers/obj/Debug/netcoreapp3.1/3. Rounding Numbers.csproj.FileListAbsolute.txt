@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\ArraysLab\3. Rounding Numbers\bin\Debug\netcoreapp3.1\3. Rounding Numbers.exe
+C:\Users\ACER\source\repos\ArraysLab\3. Rounding Numbers\bin\Debug\netcoreapp3.1\3. Rounding Numbers.deps.json
+C:\Users\ACER\source\repos\ArraysLab\3. Rounding Numbers\bin\Debug\netcoreapp3.1\3. Rounding Numbers.runtimeconfig.json
+C:\Users\ACER\source\repos\ArraysLab\3. Rounding Numbers\bin\Debug\netcoreapp3.1\3. Rounding Numbers.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\ArraysLab\3. Rounding Numbers\bin\Debug\netcoreapp3.1\3. Rounding Numbers.dll
+C:\Users\ACER\source\repos\ArraysLab\3. Rounding Numbers\bin\Debug\netcoreapp3.1\3. Rounding Numbers.pdb
+C:\Users\ACER\source\repos\ArraysLab\3. Rounding Numbers\obj\Debug\netcoreapp3.1\3. Rounding Numbers.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\ArraysLab\3. Rounding Numbers\obj\Debug\netcoreapp3.1\3. Rounding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\ArraysLab\3. Rounding Numbers\obj\Debug\netcoreapp3.1\3. Rounding Numbers.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\ArraysLab\3. Rounding Numbers\obj\Debug\netcoreapp3.1\3. Rounding Numbers.AssemblyInfo.cs
+C:\Users\ACER\source\repos\ArraysLab\3. Rounding Numbers\obj\Debug\netcoreapp3.1\3. Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ArraysLab\3. Rounding Numbers\obj\Debug\netcoreapp3.1\3. Rounding Numbers.dll
+C:\Users\ACER\source\repos\ArraysLab\3. Rounding Numbers\obj\Debug\netcoreapp3.1\3. Rounding Numbers.pdb
+C:\Users\ACER\source\repos\ArraysLab\3. Rounding Numbers\obj\Debug\netcoreapp3.1\3. Rounding Numbers.genruntimeconfig.cache

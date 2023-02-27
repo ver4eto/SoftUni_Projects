@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\ArraysLab\4. Reverse Array of Strings\bin\Debug\netcoreapp3.1\4. Reverse Array of Strings.exe
+C:\Users\ACER\source\repos\ArraysLab\4. Reverse Array of Strings\bin\Debug\netcoreapp3.1\4. Reverse Array of Strings.deps.json
+C:\Users\ACER\source\repos\ArraysLab\4. Reverse Array of Strings\bin\Debug\netcoreapp3.1\4. Reverse Array of Strings.runtimeconfig.json
+C:\Users\ACER\source\repos\ArraysLab\4. Reverse Array of Strings\bin\Debug\netcoreapp3.1\4. Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\ArraysLab\4. Reverse Array of Strings\bin\Debug\netcoreapp3.1\4. Reverse Array of Strings.dll
+C:\Users\ACER\source\repos\ArraysLab\4. Reverse Array of Strings\bin\Debug\netcoreapp3.1\4. Reverse Array of Strings.pdb
+C:\Users\ACER\source\repos\ArraysLab\4. Reverse Array of Strings\obj\Debug\netcoreapp3.1\4. Reverse Array of Strings.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\ArraysLab\4. Reverse Array of Strings\obj\Debug\netcoreapp3.1\4. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\ArraysLab\4. Reverse Array of Strings\obj\Debug\netcoreapp3.1\4. Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\ArraysLab\4. Reverse Array of Strings\obj\Debug\netcoreapp3.1\4. Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\ACER\source\repos\ArraysLab\4. Reverse Array of Strings\obj\Debug\netcoreapp3.1\4. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ArraysLab\4. Reverse Array of Strings\obj\Debug\netcoreapp3.1\4. Reverse Array of Strings.dll
+C:\Users\ACER\source\repos\ArraysLab\4. Reverse Array of Strings\obj\Debug\netcoreapp3.1\4. Reverse Array of Strings.pdb
+C:\Users\ACER\source\repos\ArraysLab\4. Reverse Array of Strings\obj\Debug\netcoreapp3.1\4. Reverse Array of Strings.genruntimeconfig.cache

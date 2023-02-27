@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\ArraysLab\1. Day of Week\bin\Debug\netcoreapp3.1\1. Day of Week.exe
+C:\Users\ACER\source\repos\ArraysLab\1. Day of Week\bin\Debug\netcoreapp3.1\1. Day of Week.deps.json
+C:\Users\ACER\source\repos\ArraysLab\1. Day of Week\bin\Debug\netcoreapp3.1\1. Day of Week.runtimeconfig.json
+C:\Users\ACER\source\repos\ArraysLab\1. Day of Week\bin\Debug\netcoreapp3.1\1. Day of Week.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\ArraysLab\1. Day of Week\bin\Debug\netcoreapp3.1\1. Day of Week.dll
+C:\Users\ACER\source\repos\ArraysLab\1. Day of Week\bin\Debug\netcoreapp3.1\1. Day of Week.pdb
+C:\Users\ACER\source\repos\ArraysLab\1. Day of Week\obj\Debug\netcoreapp3.1\1. Day of Week.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\ArraysLab\1. Day of Week\obj\Debug\netcoreapp3.1\1. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\ArraysLab\1. Day of Week\obj\Debug\netcoreapp3.1\1. Day of Week.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\ArraysLab\1. Day of Week\obj\Debug\netcoreapp3.1\1. Day of Week.AssemblyInfo.cs
+C:\Users\ACER\source\repos\ArraysLab\1. Day of Week\obj\Debug\netcoreapp3.1\1. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ArraysLab\1. Day of Week\obj\Debug\netcoreapp3.1\1. Day of Week.dll
+C:\Users\ACER\source\repos\ArraysLab\1. Day of Week\obj\Debug\netcoreapp3.1\1. Day of Week.pdb
+C:\Users\ACER\source\repos\ArraysLab\1. Day of Week\obj\Debug\netcoreapp3.1\1. Day of Week.genruntimeconfig.cache

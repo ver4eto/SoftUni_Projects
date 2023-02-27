@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\ArraysLab\5. Sum Even Numbers\bin\Debug\netcoreapp3.1\5. Sum Even Numbers.exe
+C:\Users\ACER\source\repos\ArraysLab\5. Sum Even Numbers\bin\Debug\netcoreapp3.1\5. Sum Even Numbers.deps.json
+C:\Users\ACER\source\repos\ArraysLab\5. Sum Even Numbers\bin\Debug\netcoreapp3.1\5. Sum Even Numbers.runtimeconfig.json
+C:\Users\ACER\source\repos\ArraysLab\5. Sum Even Numbers\bin\Debug\netcoreapp3.1\5. Sum Even Numbers.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\ArraysLab\5. Sum Even Numbers\bin\Debug\netcoreapp3.1\5. Sum Even Numbers.dll
+C:\Users\ACER\source\repos\ArraysLab\5. Sum Even Numbers\bin\Debug\netcoreapp3.1\5. Sum Even Numbers.pdb
+C:\Users\ACER\source\repos\ArraysLab\5. Sum Even Numbers\obj\Debug\netcoreapp3.1\5. Sum Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\ArraysLab\5. Sum Even Numbers\obj\Debug\netcoreapp3.1\5. Sum Even Numbers.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\ArraysLab\5. Sum Even Numbers\obj\Debug\netcoreapp3.1\5. Sum Even Numbers.AssemblyInfo.cs
+C:\Users\ACER\source\repos\ArraysLab\5. Sum Even Numbers\obj\Debug\netcoreapp3.1\5. Sum Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ArraysLab\5. Sum Even Numbers\obj\Debug\netcoreapp3.1\5. Sum Even Numbers.dll
+C:\Users\ACER\source\repos\ArraysLab\5. Sum Even Numbers\obj\Debug\netcoreapp3.1\5. Sum Even Numbers.pdb
+C:\Users\ACER\source\repos\ArraysLab\5. Sum Even Numbers\obj\Debug\netcoreapp3.1\5. Sum Even Numbers.genruntimeconfig.cache
