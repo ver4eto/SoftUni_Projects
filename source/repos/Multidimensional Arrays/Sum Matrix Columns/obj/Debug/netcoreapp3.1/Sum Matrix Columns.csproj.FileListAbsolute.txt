@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.exe
+C:\Users\ACER\source\repos\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.deps.json
+C:\Users\ACER\source\repos\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.runtimeconfig.json
+C:\Users\ACER\source\repos\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.dll
+C:\Users\ACER\source\repos\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.pdb
+C:\Users\ACER\source\repos\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.dll
+C:\Users\ACER\source\repos\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.pdb
+C:\Users\ACER\source\repos\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.genruntimeconfig.cache
