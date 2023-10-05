@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\AdvancedExamPreparation\\AdvancedExamPreparation\\AdvancedExamPreparation.csproj",
-      "projectName": "AdvancedExamPreparation",
-      "projectPath": "C:\\Users\\ACER\\source\\repos\\AdvancedExamPreparation\\AdvancedExamPreparation\\AdvancedExamPreparation.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\AdvancedExamPreparation\\AdvancedExamPreparation\\01. Monster Extermination.csproj",
+      "projectName": "01. Monster Extermination",
+      "projectPath": "C:\\Users\\ACER\\source\\repos\\AdvancedExamPreparation\\AdvancedExamPreparation\\01. Monster Extermination.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ACER\\source\\repos\\AdvancedExamPreparation\\AdvancedExamPreparation\\obj\\",
       "projectStyle": "PackageReference",

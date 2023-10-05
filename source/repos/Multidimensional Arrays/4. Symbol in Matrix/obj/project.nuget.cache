@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "S5Bm4MJQf1HjmR99JyXwD1LwRfUkU8Pn852hy4O2OafKjaxT4Zjbqcf9nKGjJEFhuhnUGJNffWvarCv3dvyH5g==",
+  "dgSpecHash": "8xDeoJht1mYEOC3TMnvRFUjw8InVKf8s5jXM2ECCkARjMvHmQo5xcixSYvT/GWaPx9vGRzQF7vCyVpO8lb13/A==",
   "success": true,
   "projectFilePath": "C:\\Users\\ACER\\source\\repos\\Multidimensional Arrays\\4. Symbol in Matrix\\4. Symbol in Matrix.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

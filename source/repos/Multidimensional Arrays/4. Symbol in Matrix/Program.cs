@@ -31,7 +31,16 @@ namespace _4._Symbol_in_Matrix
                         symbolCoordinates[0] = i;
                         symbolCoordinates[1] = j;
                         isFound = true;
+                        break;
                     }
+                    if (isFound)
+                    {
+                        break;
+                    }
+                }
+                if (isFound)
+                {
+                    break;
                 }
             }
             string result = string.Empty;

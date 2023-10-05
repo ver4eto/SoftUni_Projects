@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QkWVATztdoSDcZzWFSRZuCqb6T+0wQVMxZaPU9kMHRznGQ22HJVkL0VQ/5fjy3i3h74pIaCCCAJe6V+zTvrIbQ==",
+  "dgSpecHash": "d1jsdwF5HXDAHqWSRzwvg4pk9F3d4WcWQoZI3wHSWHW4XNDKk7SWfjAAWAZaw0stX1y6AON0n6gQZbGrMHTpjQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ACER\\source\\repos\\Multidimensional Arrays\\Multidimensional Arrays\\Multidimensional Arrays.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
