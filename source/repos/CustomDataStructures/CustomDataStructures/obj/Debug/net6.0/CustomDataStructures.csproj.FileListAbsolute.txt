@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataStructures\obj\Debug\net6.0\CustomDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataStructures\obj\Debug\net6.0\CustomDataStructures.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataStructures\obj\Debug\net6.0\CustomDataStructures.AssemblyInfo.cs
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataStructures\obj\Debug\net6.0\CustomDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataStructures\bin\Debug\net6.0\CustomDataStructures.exe
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataStructures\bin\Debug\net6.0\CustomDataStructures.deps.json
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataStructures\bin\Debug\net6.0\CustomDataStructures.runtimeconfig.json
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataStructures\bin\Debug\net6.0\CustomDataStructures.dll
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataStructures\bin\Debug\net6.0\CustomDataStructures.pdb
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataStructures\obj\Debug\net6.0\CustomDataStructures.dll
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataStructures\obj\Debug\net6.0\refint\CustomDataStructures.dll
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataStructures\obj\Debug\net6.0\CustomDataStructures.pdb
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataStructures\obj\Debug\net6.0\CustomDataStructures.genruntimeconfig.cache
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataStructures\obj\Debug\net6.0\ref\CustomDataStructures.dll

@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataQueue\bin\Debug\net6.0\CustomDataQueue.exe
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataQueue\bin\Debug\net6.0\CustomDataQueue.deps.json
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataQueue\bin\Debug\net6.0\CustomDataQueue.runtimeconfig.json
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataQueue\bin\Debug\net6.0\CustomDataQueue.dll
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataQueue\bin\Debug\net6.0\CustomDataQueue.pdb
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataQueue\obj\Debug\net6.0\CustomDataQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataQueue\obj\Debug\net6.0\CustomDataQueue.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataQueue\obj\Debug\net6.0\CustomDataQueue.AssemblyInfo.cs
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataQueue\obj\Debug\net6.0\CustomDataQueue.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataQueue\obj\Debug\net6.0\CustomDataQueue.dll
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataQueue\obj\Debug\net6.0\refint\CustomDataQueue.dll
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataQueue\obj\Debug\net6.0\CustomDataQueue.pdb
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataQueue\obj\Debug\net6.0\CustomDataQueue.genruntimeconfig.cache
+C:\Users\ACER\source\repos\CustomDataStructures\CustomDataQueue\obj\Debug\net6.0\ref\CustomDataQueue.dll
