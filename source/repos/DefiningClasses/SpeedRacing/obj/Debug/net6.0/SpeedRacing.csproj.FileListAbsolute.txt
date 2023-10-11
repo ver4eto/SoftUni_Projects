@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\DefiningClasses\SpeedRacing\obj\Debug\net6.0\SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\DefiningClasses\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\DefiningClasses\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfo.cs
+C:\Users\ACER\source\repos\DefiningClasses\SpeedRacing\obj\Debug\net6.0\SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\DefiningClasses\SpeedRacing\bin\Debug\net6.0\SpeedRacing.exe
+C:\Users\ACER\source\repos\DefiningClasses\SpeedRacing\bin\Debug\net6.0\SpeedRacing.deps.json
+C:\Users\ACER\source\repos\DefiningClasses\SpeedRacing\bin\Debug\net6.0\SpeedRacing.runtimeconfig.json
+C:\Users\ACER\source\repos\DefiningClasses\SpeedRacing\bin\Debug\net6.0\SpeedRacing.dll
+C:\Users\ACER\source\repos\DefiningClasses\SpeedRacing\bin\Debug\net6.0\SpeedRacing.pdb
+C:\Users\ACER\source\repos\DefiningClasses\SpeedRacing\obj\Debug\net6.0\SpeedRacing.dll
+C:\Users\ACER\source\repos\DefiningClasses\SpeedRacing\obj\Debug\net6.0\refint\SpeedRacing.dll
+C:\Users\ACER\source\repos\DefiningClasses\SpeedRacing\obj\Debug\net6.0\SpeedRacing.pdb
+C:\Users\ACER\source\repos\DefiningClasses\SpeedRacing\obj\Debug\net6.0\SpeedRacing.genruntimeconfig.cache
+C:\Users\ACER\source\repos\DefiningClasses\SpeedRacing\obj\Debug\net6.0\ref\SpeedRacing.dll

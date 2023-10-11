@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\DefiningClasses\04. Opinion Poll\bin\Debug\net6.0\OpinionPoll.exe
+C:\Users\ACER\source\repos\DefiningClasses\04. Opinion Poll\bin\Debug\net6.0\OpinionPoll.deps.json
+C:\Users\ACER\source\repos\DefiningClasses\04. Opinion Poll\bin\Debug\net6.0\OpinionPoll.runtimeconfig.json
+C:\Users\ACER\source\repos\DefiningClasses\04. Opinion Poll\bin\Debug\net6.0\OpinionPoll.dll
+C:\Users\ACER\source\repos\DefiningClasses\04. Opinion Poll\bin\Debug\net6.0\OpinionPoll.pdb
+C:\Users\ACER\source\repos\DefiningClasses\04. Opinion Poll\obj\Debug\net6.0\OpinionPoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\DefiningClasses\04. Opinion Poll\obj\Debug\net6.0\OpinionPoll.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\DefiningClasses\04. Opinion Poll\obj\Debug\net6.0\OpinionPoll.AssemblyInfo.cs
+C:\Users\ACER\source\repos\DefiningClasses\04. Opinion Poll\obj\Debug\net6.0\OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\DefiningClasses\04. Opinion Poll\obj\Debug\net6.0\OpinionPoll.dll
+C:\Users\ACER\source\repos\DefiningClasses\04. Opinion Poll\obj\Debug\net6.0\refint\OpinionPoll.dll
+C:\Users\ACER\source\repos\DefiningClasses\04. Opinion Poll\obj\Debug\net6.0\OpinionPoll.pdb
+C:\Users\ACER\source\repos\DefiningClasses\04. Opinion Poll\obj\Debug\net6.0\OpinionPoll.genruntimeconfig.cache
+C:\Users\ACER\source\repos\DefiningClasses\04. Opinion Poll\obj\Debug\net6.0\ref\OpinionPoll.dll

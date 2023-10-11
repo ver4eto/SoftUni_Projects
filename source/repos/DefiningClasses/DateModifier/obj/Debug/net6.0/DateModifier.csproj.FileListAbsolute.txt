@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\DefiningClasses\DateModifier\bin\Debug\net6.0\DateModifier.exe
+C:\Users\ACER\source\repos\DefiningClasses\DateModifier\bin\Debug\net6.0\DateModifier.deps.json
+C:\Users\ACER\source\repos\DefiningClasses\DateModifier\bin\Debug\net6.0\DateModifier.runtimeconfig.json
+C:\Users\ACER\source\repos\DefiningClasses\DateModifier\bin\Debug\net6.0\DateModifier.dll
+C:\Users\ACER\source\repos\DefiningClasses\DateModifier\bin\Debug\net6.0\DateModifier.pdb
+C:\Users\ACER\source\repos\DefiningClasses\DateModifier\obj\Debug\net6.0\DateModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\DefiningClasses\DateModifier\obj\Debug\net6.0\DateModifier.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\DefiningClasses\DateModifier\obj\Debug\net6.0\DateModifier.AssemblyInfo.cs
+C:\Users\ACER\source\repos\DefiningClasses\DateModifier\obj\Debug\net6.0\DateModifier.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\DefiningClasses\DateModifier\obj\Debug\net6.0\DateModifier.dll
+C:\Users\ACER\source\repos\DefiningClasses\DateModifier\obj\Debug\net6.0\refint\DateModifier.dll
+C:\Users\ACER\source\repos\DefiningClasses\DateModifier\obj\Debug\net6.0\DateModifier.pdb
+C:\Users\ACER\source\repos\DefiningClasses\DateModifier\obj\Debug\net6.0\DateModifier.genruntimeconfig.cache
+C:\Users\ACER\source\repos\DefiningClasses\DateModifier\obj\Debug\net6.0\ref\DateModifier.dll
