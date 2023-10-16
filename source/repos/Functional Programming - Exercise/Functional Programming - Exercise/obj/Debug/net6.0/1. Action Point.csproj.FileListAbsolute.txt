@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\bin\Debug\net6.0\1. Action Point.exe
+C:\Users\ACER\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\bin\Debug\net6.0\1. Action Point.deps.json
+C:\Users\ACER\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\bin\Debug\net6.0\1. Action Point.runtimeconfig.json
+C:\Users\ACER\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\bin\Debug\net6.0\1. Action Point.dll
+C:\Users\ACER\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\bin\Debug\net6.0\1. Action Point.pdb
+C:\Users\ACER\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net6.0\1. Action Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net6.0\1. Action Point.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net6.0\1. Action Point.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net6.0\1. Action Point.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net6.0\1. Action Point.dll
+C:\Users\ACER\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net6.0\refint\1. Action Point.dll
+C:\Users\ACER\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net6.0\1. Action Point.pdb
+C:\Users\ACER\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net6.0\1. Action Point.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net6.0\ref\1. Action Point.dll
