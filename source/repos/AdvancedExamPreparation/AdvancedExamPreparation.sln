@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Flower Wreaths", "01. F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Bee", "02. Bee\02. Bee.csproj", "{7BA7C27A-FBE6-4A72-8D0E-991B82088D4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Temple of Doom", "01.Temple of Doom\01.Temple of Doom.csproj", "{EBE15C42-A454-4624-9516-24D4F8DA004C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Mouse in the kitchen", "02.Mouse in the kitchen\02.Mouse in the kitchen.csproj", "{C4ABBA5F-B9C5-47D2-AE5D-7D829BDF0D87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{7BA7C27A-FBE6-4A72-8D0E-991B82088D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BA7C27A-FBE6-4A72-8D0E-991B82088D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BA7C27A-FBE6-4A72-8D0E-991B82088D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE15C42-A454-4624-9516-24D4F8DA004C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE15C42-A454-4624-9516-24D4F8DA004C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE15C42-A454-4624-9516-24D4F8DA004C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE15C42-A454-4624-9516-24D4F8DA004C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4ABBA5F-B9C5-47D2-AE5D-7D829BDF0D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4ABBA5F-B9C5-47D2-AE5D-7D829BDF0D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4ABBA5F-B9C5-47D2-AE5D-7D829BDF0D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4ABBA5F-B9C5-47D2-AE5D-7D829BDF0D87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
