@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. Bee\bin\Debug\net6.0\02. Bee.exe
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. Bee\bin\Debug\net6.0\02. Bee.deps.json
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. Bee\bin\Debug\net6.0\02. Bee.runtimeconfig.json
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. Bee\bin\Debug\net6.0\02. Bee.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. Bee\bin\Debug\net6.0\02. Bee.pdb
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. Bee\obj\Debug\net6.0\02. Bee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. Bee\obj\Debug\net6.0\02. Bee.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. Bee\obj\Debug\net6.0\02. Bee.AssemblyInfo.cs
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. Bee\obj\Debug\net6.0\02. Bee.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. Bee\obj\Debug\net6.0\02. Bee.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. Bee\obj\Debug\net6.0\refint\02. Bee.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. Bee\obj\Debug\net6.0\02. Bee.pdb
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. Bee\obj\Debug\net6.0\02. Bee.genruntimeconfig.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. Bee\obj\Debug\net6.0\ref\02. Bee.dll

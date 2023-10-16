@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01. Flower Wreaths\bin\Debug\net6.0\01. Flower Wreaths.exe
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01. Flower Wreaths\bin\Debug\net6.0\01. Flower Wreaths.deps.json
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01. Flower Wreaths\bin\Debug\net6.0\01. Flower Wreaths.runtimeconfig.json
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01. Flower Wreaths\bin\Debug\net6.0\01. Flower Wreaths.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01. Flower Wreaths\bin\Debug\net6.0\01. Flower Wreaths.pdb
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01. Flower Wreaths\obj\Debug\net6.0\01. Flower Wreaths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01. Flower Wreaths\obj\Debug\net6.0\01. Flower Wreaths.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01. Flower Wreaths\obj\Debug\net6.0\01. Flower Wreaths.AssemblyInfo.cs
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01. Flower Wreaths\obj\Debug\net6.0\01. Flower Wreaths.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01. Flower Wreaths\obj\Debug\net6.0\01. Flower Wreaths.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01. Flower Wreaths\obj\Debug\net6.0\refint\01. Flower Wreaths.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01. Flower Wreaths\obj\Debug\net6.0\01. Flower Wreaths.pdb
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01. Flower Wreaths\obj\Debug\net6.0\01. Flower Wreaths.genruntimeconfig.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01. Flower Wreaths\obj\Debug\net6.0\ref\01. Flower Wreaths.dll

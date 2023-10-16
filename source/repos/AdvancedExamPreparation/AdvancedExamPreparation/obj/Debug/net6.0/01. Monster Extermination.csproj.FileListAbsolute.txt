@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\bin\Debug\net6.0\01. Monster Extermination.exe
+C:\Users\ACER\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\bin\Debug\net6.0\01. Monster Extermination.deps.json
+C:\Users\ACER\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\bin\Debug\net6.0\01. Monster Extermination.runtimeconfig.json
+C:\Users\ACER\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\bin\Debug\net6.0\01. Monster Extermination.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\bin\Debug\net6.0\01. Monster Extermination.pdb
+C:\Users\ACER\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\obj\Debug\net6.0\01. Monster Extermination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\obj\Debug\net6.0\01. Monster Extermination.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\obj\Debug\net6.0\01. Monster Extermination.AssemblyInfo.cs
+C:\Users\ACER\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\obj\Debug\net6.0\01. Monster Extermination.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\obj\Debug\net6.0\01. Monster Extermination.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\obj\Debug\net6.0\refint\01. Monster Extermination.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\obj\Debug\net6.0\01. Monster Extermination.pdb
+C:\Users\ACER\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\obj\Debug\net6.0\01. Monster Extermination.genruntimeconfig.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\obj\Debug\net6.0\ref\01. Monster Extermination.dll

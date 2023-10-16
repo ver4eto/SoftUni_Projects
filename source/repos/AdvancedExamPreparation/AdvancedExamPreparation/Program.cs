@@ -1,9 +1,9 @@
 ﻿using System.Collections;
 using System.Text;
 
-Queue<int> monsters = new Queue<int>(Console.ReadLine().Split(",", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
+Queue<int> monsters = new Queue<int>(Console.ReadLine().Split(", ",StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
 
-Stack<int> soldiers = new Stack<int>(Console.ReadLine().Split(",", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
+Stack<int> soldiers = new Stack<int>(Console.ReadLine().Split(", ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
 
 int killedMonstersCount = 0;
 
@@ -54,7 +54,7 @@ if (monsters.Count == 0)
 }
 else if (soldiers.Count == 0)
 {
-    result.AppendLine($"The soldier has been defeated.");
+    result.AppendLine($"The soldier has been defeated!");
 }
 
 result.AppendLine($"Total monsters killed: {killedMonstersCount}");
