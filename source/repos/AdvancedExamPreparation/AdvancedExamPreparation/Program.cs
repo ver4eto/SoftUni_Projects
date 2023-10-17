@@ -1,36 +1,41 @@
 ﻿using System.Collections;
 using System.Text;
 
-Queue<int> monsters = new Queue<int>(Console.ReadLine().Split(", ",StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
+int [] inputMonster = Console.ReadLine().Split(",", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
 
-Stack<int> soldiers = new Stack<int>(Console.ReadLine().Split(", ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
+int[] inputSoldier = Console.ReadLine().Split(",", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+
+
+Queue<int> monsters = new Queue<int>(inputMonster);
+
+Stack<int> soldiers = new Stack<int>(inputSoldier);
 
 int killedMonstersCount = 0;
 
-while (monsters.Count > 0 && soldiers.Count > 0)
+while (monsters.Any()  && soldiers.Any())
 {
     int currentMonster = monsters.Dequeue();
-    int currentSoldierStrenght = soldiers.Peek();
+    int currentSoldierStrenght = soldiers.Pop();
 
     if (currentSoldierStrenght >= currentMonster)
     {
         killedMonstersCount++;
-
-        //monsters.Dequeue();
-
-        currentSoldierStrenght -= currentMonster; 
-        
-        soldiers.Pop();
-
-        if (soldiers.Count > 0 && currentSoldierStrenght>0)
+        currentSoldierStrenght -= currentMonster;        
+       // soldiers.Pop();
+       if (soldiers.Any())
         {
-            int lastSoldierStrenght = soldiers.Peek();
-           // soldiers.Pop();
-            soldiers.Push(lastSoldierStrenght + currentSoldierStrenght);
+            int nextStrike = soldiers.Pop();
+            nextStrike += currentSoldierStrenght;
+            soldiers.Push(nextStrike);
+        }
+       else if (currentSoldierStrenght>0)
+        {
+          
+            soldiers.Push(currentSoldierStrenght);
         }
        
     }
-    else if (currentMonster > currentSoldierStrenght)
+    else 
     {
         //soldiers.Pop();
 
@@ -38,10 +43,8 @@ while (monsters.Count > 0 && soldiers.Count > 0)
 
         //monsters.Dequeue();
 
-        if (monsters.Count>0)
-        {
             monsters.Enqueue(currentMonster);
-        }
+        
         
 
     }
@@ -52,7 +55,7 @@ if (monsters.Count == 0)
 {
     result.AppendLine($"All monsters have been killed!");
 }
-else if (soldiers.Count == 0)
+if (soldiers.Count == 0)
 {
     result.AppendLine($"The soldier has been defeated!");
 }
