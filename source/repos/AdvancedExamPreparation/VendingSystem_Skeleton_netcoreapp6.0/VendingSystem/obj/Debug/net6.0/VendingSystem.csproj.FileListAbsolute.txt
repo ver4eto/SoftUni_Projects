@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\AdvancedExamPreparation\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\obj\Debug\net6.0\VendingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\AdvancedExamPreparation\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\obj\Debug\net6.0\VendingSystem.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\obj\Debug\net6.0\VendingSystem.AssemblyInfo.cs
+C:\Users\ACER\source\repos\AdvancedExamPreparation\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\obj\Debug\net6.0\VendingSystem.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\bin\Debug\net6.0\VendingSystem.exe
+C:\Users\ACER\source\repos\AdvancedExamPreparation\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\bin\Debug\net6.0\VendingSystem.deps.json
+C:\Users\ACER\source\repos\AdvancedExamPreparation\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\bin\Debug\net6.0\VendingSystem.runtimeconfig.json
+C:\Users\ACER\source\repos\AdvancedExamPreparation\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\bin\Debug\net6.0\VendingSystem.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\bin\Debug\net6.0\VendingSystem.pdb
+C:\Users\ACER\source\repos\AdvancedExamPreparation\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\obj\Debug\net6.0\VendingSystem.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\obj\Debug\net6.0\refint\VendingSystem.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\obj\Debug\net6.0\VendingSystem.pdb
+C:\Users\ACER\source\repos\AdvancedExamPreparation\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\obj\Debug\net6.0\VendingSystem.genruntimeconfig.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\obj\Debug\net6.0\ref\VendingSystem.dll
