@@ -57,7 +57,7 @@ if (monsters.Count == 0)
 }
 if (soldiers.Count == 0)
 {
-    result.AppendLine($"The soldier has been defeated!");
+    result.AppendLine($"The soldier has been defeated.");
 }
 
 result.AppendLine($"Total monsters killed: {killedMonstersCount}");
