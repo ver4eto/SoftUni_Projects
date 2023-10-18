@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.AssemblyInfo.cs
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01.Temple of Doom\bin\Debug\net6.0\01.Temple of Doom.exe
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01.Temple of Doom\bin\Debug\net6.0\01.Temple of Doom.deps.json
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01.Temple of Doom\bin\Debug\net6.0\01.Temple of Doom.runtimeconfig.json
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01.Temple of Doom\bin\Debug\net6.0\01.Temple of Doom.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01.Temple of Doom\bin\Debug\net6.0\01.Temple of Doom.pdb
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01.Temple of Doom\obj\Debug\net6.0\refint\01.Temple of Doom.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.pdb
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.genruntimeconfig.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\01.Temple of Doom\obj\Debug\net6.0\ref\01.Temple of Doom.dll

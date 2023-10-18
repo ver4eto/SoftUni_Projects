@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. The Squirrel\bin\Debug\net6.0\02. The Squirrel.exe
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. The Squirrel\bin\Debug\net6.0\02. The Squirrel.deps.json
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. The Squirrel\bin\Debug\net6.0\02. The Squirrel.runtimeconfig.json
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. The Squirrel\bin\Debug\net6.0\02. The Squirrel.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. The Squirrel\bin\Debug\net6.0\02. The Squirrel.pdb
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. The Squirrel\obj\Debug\net6.0\02. The Squirrel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. The Squirrel\obj\Debug\net6.0\02. The Squirrel.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. The Squirrel\obj\Debug\net6.0\02. The Squirrel.AssemblyInfo.cs
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. The Squirrel\obj\Debug\net6.0\02. The Squirrel.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. The Squirrel\obj\Debug\net6.0\02. The Squirrel.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. The Squirrel\obj\Debug\net6.0\refint\02. The Squirrel.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. The Squirrel\obj\Debug\net6.0\02. The Squirrel.pdb
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. The Squirrel\obj\Debug\net6.0\02. The Squirrel.genruntimeconfig.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02. The Squirrel\obj\Debug\net6.0\ref\02. The Squirrel.dll

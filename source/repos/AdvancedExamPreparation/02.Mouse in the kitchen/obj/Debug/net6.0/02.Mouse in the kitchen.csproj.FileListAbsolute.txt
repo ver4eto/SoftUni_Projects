@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02.Mouse in the kitchen\bin\Debug\net6.0\02.Mouse in the kitchen.exe
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02.Mouse in the kitchen\bin\Debug\net6.0\02.Mouse in the kitchen.deps.json
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02.Mouse in the kitchen\bin\Debug\net6.0\02.Mouse in the kitchen.runtimeconfig.json
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02.Mouse in the kitchen\bin\Debug\net6.0\02.Mouse in the kitchen.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02.Mouse in the kitchen\bin\Debug\net6.0\02.Mouse in the kitchen.pdb
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02.Mouse in the kitchen\obj\Debug\net6.0\02.Mouse in the kitchen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02.Mouse in the kitchen\obj\Debug\net6.0\02.Mouse in the kitchen.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02.Mouse in the kitchen\obj\Debug\net6.0\02.Mouse in the kitchen.AssemblyInfo.cs
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02.Mouse in the kitchen\obj\Debug\net6.0\02.Mouse in the kitchen.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02.Mouse in the kitchen\obj\Debug\net6.0\02.Mouse in the kitchen.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02.Mouse in the kitchen\obj\Debug\net6.0\refint\02.Mouse in the kitchen.dll
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02.Mouse in the kitchen\obj\Debug\net6.0\02.Mouse in the kitchen.pdb
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02.Mouse in the kitchen\obj\Debug\net6.0\02.Mouse in the kitchen.genruntimeconfig.cache
+C:\Users\ACER\source\repos\AdvancedExamPreparation\02.Mouse in the kitchen\obj\Debug\net6.0\ref\02.Mouse in the kitchen.dll
