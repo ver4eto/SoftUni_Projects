@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Advanced_Mid_exam\Advanced_Mid_exam\obj\Debug\net6.0\Advanced_Mid_exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Advanced_Mid_exam\Advanced_Mid_exam\obj\Debug\net6.0\Advanced_Mid_exam.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Advanced_Mid_exam\Advanced_Mid_exam\obj\Debug\net6.0\Advanced_Mid_exam.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Advanced_Mid_exam\Advanced_Mid_exam\obj\Debug\net6.0\Advanced_Mid_exam.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Advanced_Mid_exam\Advanced_Mid_exam\bin\Debug\net6.0\Advanced_Mid_exam.exe
+C:\Users\ACER\source\repos\Advanced_Mid_exam\Advanced_Mid_exam\bin\Debug\net6.0\Advanced_Mid_exam.deps.json
+C:\Users\ACER\source\repos\Advanced_Mid_exam\Advanced_Mid_exam\bin\Debug\net6.0\Advanced_Mid_exam.runtimeconfig.json
+C:\Users\ACER\source\repos\Advanced_Mid_exam\Advanced_Mid_exam\bin\Debug\net6.0\Advanced_Mid_exam.dll
+C:\Users\ACER\source\repos\Advanced_Mid_exam\Advanced_Mid_exam\bin\Debug\net6.0\Advanced_Mid_exam.pdb
+C:\Users\ACER\source\repos\Advanced_Mid_exam\Advanced_Mid_exam\obj\Debug\net6.0\Advanced_Mid_exam.dll
+C:\Users\ACER\source\repos\Advanced_Mid_exam\Advanced_Mid_exam\obj\Debug\net6.0\refint\Advanced_Mid_exam.dll
+C:\Users\ACER\source\repos\Advanced_Mid_exam\Advanced_Mid_exam\obj\Debug\net6.0\Advanced_Mid_exam.pdb
+C:\Users\ACER\source\repos\Advanced_Mid_exam\Advanced_Mid_exam\obj\Debug\net6.0\Advanced_Mid_exam.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Advanced_Mid_exam\Advanced_Mid_exam\obj\Debug\net6.0\ref\Advanced_Mid_exam.dll

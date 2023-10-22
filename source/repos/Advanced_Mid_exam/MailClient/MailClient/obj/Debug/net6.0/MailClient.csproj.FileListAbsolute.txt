@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Advanced_Mid_exam\MailClient\MailClient\bin\Debug\net6.0\MailClient.exe
+C:\Users\ACER\source\repos\Advanced_Mid_exam\MailClient\MailClient\bin\Debug\net6.0\MailClient.deps.json
+C:\Users\ACER\source\repos\Advanced_Mid_exam\MailClient\MailClient\bin\Debug\net6.0\MailClient.runtimeconfig.json
+C:\Users\ACER\source\repos\Advanced_Mid_exam\MailClient\MailClient\bin\Debug\net6.0\MailClient.dll
+C:\Users\ACER\source\repos\Advanced_Mid_exam\MailClient\MailClient\bin\Debug\net6.0\MailClient.pdb
+C:\Users\ACER\source\repos\Advanced_Mid_exam\MailClient\MailClient\obj\Debug\net6.0\MailClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Advanced_Mid_exam\MailClient\MailClient\obj\Debug\net6.0\MailClient.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Advanced_Mid_exam\MailClient\MailClient\obj\Debug\net6.0\MailClient.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Advanced_Mid_exam\MailClient\MailClient\obj\Debug\net6.0\MailClient.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Advanced_Mid_exam\MailClient\MailClient\obj\Debug\net6.0\MailClient.dll
+C:\Users\ACER\source\repos\Advanced_Mid_exam\MailClient\MailClient\obj\Debug\net6.0\refint\MailClient.dll
+C:\Users\ACER\source\repos\Advanced_Mid_exam\MailClient\MailClient\obj\Debug\net6.0\MailClient.pdb
+C:\Users\ACER\source\repos\Advanced_Mid_exam\MailClient\MailClient\obj\Debug\net6.0\MailClient.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Advanced_Mid_exam\MailClient\MailClient\obj\Debug\net6.0\ref\MailClient.dll

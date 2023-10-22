@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Advanced_Mid_exam\FishingCompetition\bin\Debug\net6.0\FishingCompetition.exe
+C:\Users\ACER\source\repos\Advanced_Mid_exam\FishingCompetition\bin\Debug\net6.0\FishingCompetition.deps.json
+C:\Users\ACER\source\repos\Advanced_Mid_exam\FishingCompetition\bin\Debug\net6.0\FishingCompetition.runtimeconfig.json
+C:\Users\ACER\source\repos\Advanced_Mid_exam\FishingCompetition\bin\Debug\net6.0\FishingCompetition.dll
+C:\Users\ACER\source\repos\Advanced_Mid_exam\FishingCompetition\bin\Debug\net6.0\FishingCompetition.pdb
+C:\Users\ACER\source\repos\Advanced_Mid_exam\FishingCompetition\obj\Debug\net6.0\FishingCompetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Advanced_Mid_exam\FishingCompetition\obj\Debug\net6.0\FishingCompetition.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Advanced_Mid_exam\FishingCompetition\obj\Debug\net6.0\FishingCompetition.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Advanced_Mid_exam\FishingCompetition\obj\Debug\net6.0\FishingCompetition.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Advanced_Mid_exam\FishingCompetition\obj\Debug\net6.0\FishingCompetition.dll
+C:\Users\ACER\source\repos\Advanced_Mid_exam\FishingCompetition\obj\Debug\net6.0\refint\FishingCompetition.dll
+C:\Users\ACER\source\repos\Advanced_Mid_exam\FishingCompetition\obj\Debug\net6.0\FishingCompetition.pdb
+C:\Users\ACER\source\repos\Advanced_Mid_exam\FishingCompetition\obj\Debug\net6.0\FishingCompetition.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Advanced_Mid_exam\FishingCompetition\obj\Debug\net6.0\ref\FishingCompetition.dll
