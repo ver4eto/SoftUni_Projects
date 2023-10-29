@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OOP\Inheritance\InheritanceExercise_Skeleton_6.0\Person\bin\Debug\net6.0\Person.exe
+C:\Users\ACER\source\repos\OOP\Inheritance\InheritanceExercise_Skeleton_6.0\Person\bin\Debug\net6.0\Person.deps.json
+C:\Users\ACER\source\repos\OOP\Inheritance\InheritanceExercise_Skeleton_6.0\Person\bin\Debug\net6.0\Person.runtimeconfig.json
+C:\Users\ACER\source\repos\OOP\Inheritance\InheritanceExercise_Skeleton_6.0\Person\bin\Debug\net6.0\Person.dll
+C:\Users\ACER\source\repos\OOP\Inheritance\InheritanceExercise_Skeleton_6.0\Person\bin\Debug\net6.0\Person.pdb
+C:\Users\ACER\source\repos\OOP\Inheritance\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OOP\Inheritance\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OOP\Inheritance\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OOP\Inheritance\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OOP\Inheritance\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.dll
+C:\Users\ACER\source\repos\OOP\Inheritance\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\refint\Person.dll
+C:\Users\ACER\source\repos\OOP\Inheritance\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.pdb
+C:\Users\ACER\source\repos\OOP\Inheritance\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OOP\Inheritance\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\ref\Person.dll

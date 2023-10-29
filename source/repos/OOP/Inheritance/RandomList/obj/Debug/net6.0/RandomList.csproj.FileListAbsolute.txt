@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OOP\Inheritance\RandomList\obj\Debug\net6.0\RandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OOP\Inheritance\RandomList\obj\Debug\net6.0\RandomList.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OOP\Inheritance\RandomList\obj\Debug\net6.0\RandomList.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OOP\Inheritance\RandomList\obj\Debug\net6.0\RandomList.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OOP\Inheritance\RandomList\bin\Debug\net6.0\RandomList.exe
+C:\Users\ACER\source\repos\OOP\Inheritance\RandomList\bin\Debug\net6.0\RandomList.deps.json
+C:\Users\ACER\source\repos\OOP\Inheritance\RandomList\bin\Debug\net6.0\RandomList.runtimeconfig.json
+C:\Users\ACER\source\repos\OOP\Inheritance\RandomList\bin\Debug\net6.0\RandomList.dll
+C:\Users\ACER\source\repos\OOP\Inheritance\RandomList\bin\Debug\net6.0\RandomList.pdb
+C:\Users\ACER\source\repos\OOP\Inheritance\RandomList\obj\Debug\net6.0\RandomList.dll
+C:\Users\ACER\source\repos\OOP\Inheritance\RandomList\obj\Debug\net6.0\refint\RandomList.dll
+C:\Users\ACER\source\repos\OOP\Inheritance\RandomList\obj\Debug\net6.0\RandomList.pdb
+C:\Users\ACER\source\repos\OOP\Inheritance\RandomList\obj\Debug\net6.0\RandomList.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OOP\Inheritance\RandomList\obj\Debug\net6.0\ref\RandomList.dll
