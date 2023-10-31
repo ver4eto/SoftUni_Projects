@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OOP\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+C:\Users\ACER\source\repos\OOP\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+C:\Users\ACER\source\repos\OOP\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+C:\Users\ACER\source\repos\OOP\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+C:\Users\ACER\source\repos\OOP\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+C:\Users\ACER\source\repos\OOP\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OOP\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OOP\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OOP\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OOP\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+C:\Users\ACER\source\repos\OOP\Encapsulation\Encapsulation\obj\Debug\net6.0\refint\Encapsulation.dll
+C:\Users\ACER\source\repos\OOP\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+C:\Users\ACER\source\repos\OOP\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OOP\Encapsulation\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll
