@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\FoodShortage\bin\Debug\net6.0\FoodShortage.exe
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\FoodShortage\bin\Debug\net6.0\FoodShortage.deps.json
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\FoodShortage\bin\Debug\net6.0\FoodShortage.runtimeconfig.json
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\FoodShortage\bin\Debug\net6.0\FoodShortage.dll
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\FoodShortage\bin\Debug\net6.0\FoodShortage.pdb
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\FoodShortage\obj\Debug\net6.0\FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\FoodShortage\obj\Debug\net6.0\FoodShortage.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\FoodShortage\obj\Debug\net6.0\FoodShortage.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\FoodShortage\obj\Debug\net6.0\FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\FoodShortage\obj\Debug\net6.0\FoodShortage.dll
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\FoodShortage\obj\Debug\net6.0\refint\FoodShortage.dll
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\FoodShortage\obj\Debug\net6.0\FoodShortage.pdb
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\FoodShortage\obj\Debug\net6.0\FoodShortage.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\FoodShortage\obj\Debug\net6.0\ref\FoodShortage.dll

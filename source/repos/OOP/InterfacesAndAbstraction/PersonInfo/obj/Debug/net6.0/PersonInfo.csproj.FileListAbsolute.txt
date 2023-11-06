@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\PersonInfo\bin\Debug\net6.0\PersonInfo.exe
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\PersonInfo\bin\Debug\net6.0\PersonInfo.deps.json
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\PersonInfo\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\PersonInfo\bin\Debug\net6.0\PersonInfo.dll
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\PersonInfo\bin\Debug\net6.0\PersonInfo.pdb
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.dll
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\PersonInfo\obj\Debug\net6.0\refint\PersonInfo.dll
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.pdb
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\PersonInfo\obj\Debug\net6.0\ref\PersonInfo.dll

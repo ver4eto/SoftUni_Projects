@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\MilitaryElite\bin\Debug\net6.0\MilitaryElite.exe
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\MilitaryElite\bin\Debug\net6.0\MilitaryElite.deps.json
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\MilitaryElite\bin\Debug\net6.0\MilitaryElite.runtimeconfig.json
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\MilitaryElite\bin\Debug\net6.0\MilitaryElite.dll
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\MilitaryElite\bin\Debug\net6.0\MilitaryElite.pdb
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.dll
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\refint\MilitaryElite.dll
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.pdb
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\MilitaryElite.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OOP\InterfacesAndAbstraction\MilitaryElite\obj\Debug\net6.0\ref\MilitaryElite.dll
