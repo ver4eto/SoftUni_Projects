@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Raiding\obj\Debug\net6.0\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Raiding\obj\Debug\net6.0\Raiding.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Raiding\bin\Debug\net6.0\Raiding.exe
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Raiding\bin\Debug\net6.0\Raiding.deps.json
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Raiding\bin\Debug\net6.0\Raiding.runtimeconfig.json
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Raiding\bin\Debug\net6.0\Raiding.dll
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Raiding\bin\Debug\net6.0\Raiding.pdb
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Raiding\obj\Debug\net6.0\Raiding.dll
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Raiding\obj\Debug\net6.0\refint\Raiding.dll
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Raiding\obj\Debug\net6.0\Raiding.pdb
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Raiding\obj\Debug\net6.0\Raiding.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Raiding\obj\Debug\net6.0\ref\Raiding.dll

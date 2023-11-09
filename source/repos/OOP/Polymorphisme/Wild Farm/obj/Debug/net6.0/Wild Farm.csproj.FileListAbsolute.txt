@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Wild Farm\bin\Debug\net6.0\Wild Farm.exe
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Wild Farm\bin\Debug\net6.0\Wild Farm.deps.json
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Wild Farm\bin\Debug\net6.0\Wild Farm.runtimeconfig.json
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Wild Farm\bin\Debug\net6.0\Wild Farm.dll
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Wild Farm\bin\Debug\net6.0\Wild Farm.pdb
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Wild Farm\obj\Debug\net6.0\Wild Farm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Wild Farm\obj\Debug\net6.0\Wild Farm.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Wild Farm\obj\Debug\net6.0\Wild Farm.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Wild Farm\obj\Debug\net6.0\Wild Farm.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Wild Farm\obj\Debug\net6.0\Wild Farm.dll
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Wild Farm\obj\Debug\net6.0\refint\Wild Farm.dll
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Wild Farm\obj\Debug\net6.0\Wild Farm.pdb
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Wild Farm\obj\Debug\net6.0\Wild Farm.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OOP\Polymorphisme\Wild Farm\obj\Debug\net6.0\ref\Wild Farm.dll
