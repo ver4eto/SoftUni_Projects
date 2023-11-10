@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.exe
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.deps.json
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.runtimeconfig.json
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.dll
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.pdb
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.dll
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\refint\ExceptionHandling.dll
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.pdb
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ref\ExceptionHandling.dll

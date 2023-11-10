@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Enter Numbers\bin\Debug\net6.0\Enter Numbers.exe
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Enter Numbers\bin\Debug\net6.0\Enter Numbers.deps.json
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Enter Numbers\bin\Debug\net6.0\Enter Numbers.runtimeconfig.json
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Enter Numbers\bin\Debug\net6.0\Enter Numbers.dll
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Enter Numbers\bin\Debug\net6.0\Enter Numbers.pdb
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Enter Numbers\obj\Debug\net6.0\Enter Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Enter Numbers\obj\Debug\net6.0\Enter Numbers.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Enter Numbers\obj\Debug\net6.0\Enter Numbers.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Enter Numbers\obj\Debug\net6.0\Enter Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Enter Numbers\obj\Debug\net6.0\Enter Numbers.dll
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Enter Numbers\obj\Debug\net6.0\refint\Enter Numbers.dll
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Enter Numbers\obj\Debug\net6.0\Enter Numbers.pdb
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Enter Numbers\obj\Debug\net6.0\Enter Numbers.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Enter Numbers\obj\Debug\net6.0\ref\Enter Numbers.dll

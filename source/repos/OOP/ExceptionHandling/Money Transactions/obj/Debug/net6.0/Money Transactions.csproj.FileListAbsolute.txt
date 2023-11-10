@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Money Transactions\obj\Debug\net6.0\Money Transactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Money Transactions\obj\Debug\net6.0\Money Transactions.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Money Transactions\obj\Debug\net6.0\Money Transactions.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Money Transactions\obj\Debug\net6.0\Money Transactions.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Money Transactions\bin\Debug\net6.0\Money Transactions.exe
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Money Transactions\bin\Debug\net6.0\Money Transactions.deps.json
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Money Transactions\bin\Debug\net6.0\Money Transactions.runtimeconfig.json
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Money Transactions\bin\Debug\net6.0\Money Transactions.dll
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Money Transactions\bin\Debug\net6.0\Money Transactions.pdb
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Money Transactions\obj\Debug\net6.0\Money Transactions.dll
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Money Transactions\obj\Debug\net6.0\refint\Money Transactions.dll
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Money Transactions\obj\Debug\net6.0\Money Transactions.pdb
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Money Transactions\obj\Debug\net6.0\Money Transactions.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Money Transactions\obj\Debug\net6.0\ref\Money Transactions.dll

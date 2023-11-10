@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Play Catch\bin\Debug\net6.0\Play Catch.exe
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Play Catch\bin\Debug\net6.0\Play Catch.deps.json
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Play Catch\bin\Debug\net6.0\Play Catch.runtimeconfig.json
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Play Catch\bin\Debug\net6.0\Play Catch.dll
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Play Catch\bin\Debug\net6.0\Play Catch.pdb
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Play Catch\obj\Debug\net6.0\Play Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Play Catch\obj\Debug\net6.0\Play Catch.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Play Catch\obj\Debug\net6.0\Play Catch.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Play Catch\obj\Debug\net6.0\Play Catch.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Play Catch\obj\Debug\net6.0\Play Catch.dll
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Play Catch\obj\Debug\net6.0\refint\Play Catch.dll
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Play Catch\obj\Debug\net6.0\Play Catch.pdb
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Play Catch\obj\Debug\net6.0\Play Catch.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OOP\ExceptionHandling\Play Catch\obj\Debug\net6.0\ref\Play Catch.dll
