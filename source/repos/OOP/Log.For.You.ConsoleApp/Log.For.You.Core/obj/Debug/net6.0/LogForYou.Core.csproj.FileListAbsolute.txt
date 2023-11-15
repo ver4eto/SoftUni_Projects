@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\OOP\Log.For.You.ConsoleApp\Log.For.You.Core\bin\Debug\net6.0\LogForYou.Core.deps.json
+C:\Users\ACER\source\repos\OOP\Log.For.You.ConsoleApp\Log.For.You.Core\bin\Debug\net6.0\LogForYou.Core.dll
+C:\Users\ACER\source\repos\OOP\Log.For.You.ConsoleApp\Log.For.You.Core\bin\Debug\net6.0\LogForYou.Core.pdb
+C:\Users\ACER\source\repos\OOP\Log.For.You.ConsoleApp\Log.For.You.Core\obj\Debug\net6.0\LogForYou.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OOP\Log.For.You.ConsoleApp\Log.For.You.Core\obj\Debug\net6.0\LogForYou.Core.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OOP\Log.For.You.ConsoleApp\Log.For.You.Core\obj\Debug\net6.0\LogForYou.Core.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OOP\Log.For.You.ConsoleApp\Log.For.You.Core\obj\Debug\net6.0\LogForYou.Core.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OOP\Log.For.You.ConsoleApp\Log.For.You.Core\obj\Debug\net6.0\LogForYou.Core.dll
+C:\Users\ACER\source\repos\OOP\Log.For.You.ConsoleApp\Log.For.You.Core\obj\Debug\net6.0\refint\LogForYou.Core.dll
+C:\Users\ACER\source\repos\OOP\Log.For.You.ConsoleApp\Log.For.You.Core\obj\Debug\net6.0\LogForYou.Core.pdb
+C:\Users\ACER\source\repos\OOP\Log.For.You.ConsoleApp\Log.For.You.Core\obj\Debug\net6.0\ref\LogForYou.Core.dll
