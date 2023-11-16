@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OOP\ReflectionAndAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.exe
+C:\Users\ACER\source\repos\OOP\ReflectionAndAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.deps.json
+C:\Users\ACER\source\repos\OOP\ReflectionAndAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.runtimeconfig.json
+C:\Users\ACER\source\repos\OOP\ReflectionAndAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.dll
+C:\Users\ACER\source\repos\OOP\ReflectionAndAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.pdb
+C:\Users\ACER\source\repos\OOP\ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OOP\ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OOP\ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OOP\ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OOP\ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.dll
+C:\Users\ACER\source\repos\OOP\ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\refint\AuthorProblem.dll
+C:\Users\ACER\source\repos\OOP\ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.pdb
+C:\Users\ACER\source\repos\OOP\ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OOP\ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\ref\AuthorProblem.dll
