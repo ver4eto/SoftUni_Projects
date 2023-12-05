@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OOP\ExamPreparation\SmartDevice_Skeleton_6.0(1)\SmartDevice\bin\Debug\net6.0\SmartDevice.exe
+C:\Users\ACER\source\repos\OOP\ExamPreparation\SmartDevice_Skeleton_6.0(1)\SmartDevice\bin\Debug\net6.0\SmartDevice.deps.json
+C:\Users\ACER\source\repos\OOP\ExamPreparation\SmartDevice_Skeleton_6.0(1)\SmartDevice\bin\Debug\net6.0\SmartDevice.runtimeconfig.json
+C:\Users\ACER\source\repos\OOP\ExamPreparation\SmartDevice_Skeleton_6.0(1)\SmartDevice\bin\Debug\net6.0\SmartDevice.dll
+C:\Users\ACER\source\repos\OOP\ExamPreparation\SmartDevice_Skeleton_6.0(1)\SmartDevice\bin\Debug\net6.0\SmartDevice.pdb
+C:\Users\ACER\source\repos\OOP\ExamPreparation\SmartDevice_Skeleton_6.0(1)\SmartDevice\obj\Debug\net6.0\SmartDevice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OOP\ExamPreparation\SmartDevice_Skeleton_6.0(1)\SmartDevice\obj\Debug\net6.0\SmartDevice.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OOP\ExamPreparation\SmartDevice_Skeleton_6.0(1)\SmartDevice\obj\Debug\net6.0\SmartDevice.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OOP\ExamPreparation\SmartDevice_Skeleton_6.0(1)\SmartDevice\obj\Debug\net6.0\SmartDevice.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OOP\ExamPreparation\SmartDevice_Skeleton_6.0(1)\SmartDevice\obj\Debug\net6.0\SmartDevice.dll
+C:\Users\ACER\source\repos\OOP\ExamPreparation\SmartDevice_Skeleton_6.0(1)\SmartDevice\obj\Debug\net6.0\refint\SmartDevice.dll
+C:\Users\ACER\source\repos\OOP\ExamPreparation\SmartDevice_Skeleton_6.0(1)\SmartDevice\obj\Debug\net6.0\SmartDevice.pdb
+C:\Users\ACER\source\repos\OOP\ExamPreparation\SmartDevice_Skeleton_6.0(1)\SmartDevice\obj\Debug\net6.0\SmartDevice.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OOP\ExamPreparation\SmartDevice_Skeleton_6.0(1)\SmartDevice\obj\Debug\net6.0\ref\SmartDevice.dll

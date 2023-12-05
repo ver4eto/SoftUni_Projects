@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EY2uQy0MFdHNs4qnh5WiURklrJ68uSDWyCOJEyutkZvvvz2hieXpIuohJNJHdm0NnTtXuQtfnO8Nqjlem5erHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\10.12.2022\\03. Unit Tests_Skeleton\\FootballTeam\\FootballTeam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
