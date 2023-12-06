@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OOP\ExamPreparation\EDriveRent_Skeleton_6.0\bin\Debug\net6.0\EDriveRent.exe
+C:\Users\ACER\source\repos\OOP\ExamPreparation\EDriveRent_Skeleton_6.0\bin\Debug\net6.0\EDriveRent.deps.json
+C:\Users\ACER\source\repos\OOP\ExamPreparation\EDriveRent_Skeleton_6.0\bin\Debug\net6.0\EDriveRent.runtimeconfig.json
+C:\Users\ACER\source\repos\OOP\ExamPreparation\EDriveRent_Skeleton_6.0\bin\Debug\net6.0\EDriveRent.dll
+C:\Users\ACER\source\repos\OOP\ExamPreparation\EDriveRent_Skeleton_6.0\bin\Debug\net6.0\EDriveRent.pdb
+C:\Users\ACER\source\repos\OOP\ExamPreparation\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OOP\ExamPreparation\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OOP\ExamPreparation\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OOP\ExamPreparation\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OOP\ExamPreparation\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.dll
+C:\Users\ACER\source\repos\OOP\ExamPreparation\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\refint\EDriveRent.dll
+C:\Users\ACER\source\repos\OOP\ExamPreparation\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.pdb
+C:\Users\ACER\source\repos\OOP\ExamPreparation\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\EDriveRent.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OOP\ExamPreparation\EDriveRent_Skeleton_6.0\obj\Debug\net6.0\ref\EDriveRent.dll
