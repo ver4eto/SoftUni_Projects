@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.exe
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.deps.json
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.runtimeconfig.json
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.dll
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.pdb
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.dll
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\refint\RobotFactory.dll
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.pdb
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\ref\RobotFactory.dll

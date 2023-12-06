@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.exe
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.deps.json
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.runtimeconfig.json
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.dll
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.pdb
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.dll
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\refint\RobotService.dll
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.pdb
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OOP\ExamPreparation\08.04.2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\ref\RobotService.dll
