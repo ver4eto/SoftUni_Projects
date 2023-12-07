@@ -1,0 +1,127 @@
+{
+  "version": 2,
+  "dgSpecHash": "jfxMHTnejqpHr86y4JP79tiDjEc7NciAXOO3+vrtqx+UgnfOtdOzGfa84M7VgsnCVt1G2XKFkQTHy7O94cnlOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\19.12.2022\\01. Structure_Skeleton_6.0\\UniversityCompetition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.13\\microsoft.extensions.configuration.3.1.13.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.13\\microsoft.extensions.configuration.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.13\\microsoft.extensions.configuration.fileextensions.3.1.13.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.13\\microsoft.extensions.configuration.json.3.1.13.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\3.1.13\\microsoft.extensions.configuration.usersecrets.3.1.13.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.13\\microsoft.extensions.fileproviders.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.13\\microsoft.extensions.fileproviders.physical.3.1.13.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.13\\microsoft.extensions.filesystemglobbing.3.1.13.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.13\\microsoft.extensions.primitives.3.1.13.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Access to the path 'C:\\Documents and Settings' is denied."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Access to the path 'C:\\System Volume Information' is denied."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Access to the path 'C:\\Documents and Settings' is denied."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Access to the path 'C:\\System Volume Information' is denied."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Access to the path 'C:\\Documents and Settings' is denied."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Access to the path 'C:\\System Volume Information' is denied."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Access to the path 'C:\\Documents and Settings' is denied."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Access to the path 'C:\\System Volume Information' is denied."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Access to the path 'C:\\Documents and Settings' is denied."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Access to the path 'C:\\System Volume Information' is denied."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Access to the path 'C:\\Documents and Settings' is denied."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Access to the path 'C:\\System Volume Information' is denied."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Access to the path 'C:\\Documents and Settings' is denied."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Access to the path 'C:\\System Volume Information' is denied."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Access to the path 'C:\\Documents and Settings' is denied."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Access to the path 'C:\\System Volume Information' is denied."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Access to the path 'C:\\Documents and Settings' is denied."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Access to the path 'C:\\System Volume Information' is denied."
+    }
+  ]
+}

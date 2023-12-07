@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OOP\ExamPreparation\19.12.2022\03. Unit Tests_Skeleton_6.0\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.exe
+C:\Users\ACER\source\repos\OOP\ExamPreparation\19.12.2022\03. Unit Tests_Skeleton_6.0\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.deps.json
+C:\Users\ACER\source\repos\OOP\ExamPreparation\19.12.2022\03. Unit Tests_Skeleton_6.0\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.runtimeconfig.json
+C:\Users\ACER\source\repos\OOP\ExamPreparation\19.12.2022\03. Unit Tests_Skeleton_6.0\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.dll
+C:\Users\ACER\source\repos\OOP\ExamPreparation\19.12.2022\03. Unit Tests_Skeleton_6.0\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.pdb
+C:\Users\ACER\source\repos\OOP\ExamPreparation\19.12.2022\03. Unit Tests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OOP\ExamPreparation\19.12.2022\03. Unit Tests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OOP\ExamPreparation\19.12.2022\03. Unit Tests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OOP\ExamPreparation\19.12.2022\03. Unit Tests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OOP\ExamPreparation\19.12.2022\03. Unit Tests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.dll
+C:\Users\ACER\source\repos\OOP\ExamPreparation\19.12.2022\03. Unit Tests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\refint\UniversityLibrary.dll
+C:\Users\ACER\source\repos\OOP\ExamPreparation\19.12.2022\03. Unit Tests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.pdb
+C:\Users\ACER\source\repos\OOP\ExamPreparation\19.12.2022\03. Unit Tests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OOP\ExamPreparation\19.12.2022\03. Unit Tests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\ref\UniversityLibrary.dll
