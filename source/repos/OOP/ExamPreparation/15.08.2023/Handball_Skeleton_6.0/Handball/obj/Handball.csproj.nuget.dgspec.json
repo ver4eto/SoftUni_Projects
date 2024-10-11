@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\Handball_Skeleton_6.0\\Handball\\Handball.csproj": {}
+    "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\15.08.2023\\Handball_Skeleton_6.0\\Handball\\Handball.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\Handball_Skeleton_6.0\\Handball\\Handball.csproj": {
+    "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\15.08.2023\\Handball_Skeleton_6.0\\Handball\\Handball.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\Handball_Skeleton_6.0\\Handball\\Handball.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\15.08.2023\\Handball_Skeleton_6.0\\Handball\\Handball.csproj",
         "projectName": "Handball",
-        "projectPath": "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\Handball_Skeleton_6.0\\Handball\\Handball.csproj",
+        "projectPath": "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\15.08.2023\\Handball_Skeleton_6.0\\Handball\\Handball.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\Handball_Skeleton_6.0\\Handball\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\15.08.2023\\Handball_Skeleton_6.0\\Handball\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",

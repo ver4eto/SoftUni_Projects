@@ -38,7 +38,7 @@ namespace Handball.Models
 
             protected set
             {
-                if (value > 10 || value<1)
+                if (value > 10 || value < 1)
                 {
                     return;
                 }
@@ -73,12 +73,12 @@ namespace Handball.Models
 
         public override string ToString()
         {
-            StringBuilder sb=new StringBuilder();
+            StringBuilder sb = new StringBuilder();
             sb.AppendLine($"{this.GetType().Name}: {Name}");
-                sb.AppendLine($"--Rating: { Rating}"
+            sb.AppendLine($"--Rating: {Rating}"
 );
 
-            return sb.ToString();
+            return sb.ToString().TrimEnd();
         }
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\SmartDevice_Skeleton_6.0(1)\\SmartDevice\\SmartDevice.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\15.08.2023\\SmartDevice_Skeleton_6.0(1)\\SmartDevice\\SmartDevice.csproj",
       "projectName": "SmartDevice",
-      "projectPath": "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\SmartDevice_Skeleton_6.0(1)\\SmartDevice\\SmartDevice.csproj",
+      "projectPath": "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\15.08.2023\\SmartDevice_Skeleton_6.0(1)\\SmartDevice\\SmartDevice.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\SmartDevice_Skeleton_6.0(1)\\SmartDevice\\obj\\",
+      "outputPath": "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\15.08.2023\\SmartDevice_Skeleton_6.0(1)\\SmartDevice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",

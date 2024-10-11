@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7tQ2COWJWCwL/39a1hsZp4nahQPp0myn4ztnNuIN+UH+FL29O/1hTAfxO+b9r1K7mJy2SUoAZbmRtUhBFjtdug==",
+  "dgSpecHash": "dDP+ghaQz0+Rslr7v97qcj03iit+Ao8DjMvlHzpCp5OcaRIITDDvIXjqetEKyUaA3gchja/g2kLHLyLOsJIfaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\SmartDevice_Skeleton_6.0(1)\\SmartDevice.Tests\\SmartDevice.Tests.csproj",
+  "projectFilePath": "C:\\Users\\ACER\\source\\repos\\OOP\\ExamPreparation\\15.08.2023\\SmartDevice_Skeleton_6.0(1)\\SmartDevice.Tests\\SmartDevice.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
